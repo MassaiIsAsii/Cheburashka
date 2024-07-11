@@ -1,0 +1,37 @@
+{
+    "b55859b49576694f927ed697448998a7": {
+        "default": {
+            "common": {
+                "audio.profile.music": {
+                    "audio.aec.noise_gate.enable": false,
+                    "audio.aec.noise_gate.enable.earphone": false,
+                    "audio.noise_gate_near": 200,
+                    "audio.noise_gate_near.earphone": 0
+                },
+                "audio.profile.voip": {
+                    "audio.aec.initial.sup.flag": 2,
+                    "audio.aec.voip.mode": false,
+                    "audio.ans.full.band.enable": 1,
+                    "audio.apm.nsmode": 1,
+                    "audio.noise_gate_near": 350
+                },
+                "qos.conf": {
+                    "enable_sig_multi_proto": true,
+                    "min_jb_delay_of_audience": 400,
+                    "quic_congestion_mode": 2,
+                    "quic_connect_timeout": 4000,
+                    "sdk.crash.report.mode": 2,
+                    "sdk.silence.nobilling.detect.duration": 10000,
+                    "sdk.silence.nobilling.enable": true,
+                    "sdk.silence.nobilling.threshold": -126,
+                    "turn_on_inbandFec_standard_extend": false,
+                    "turn_on_quic_dynamic_red": true
+                }
+            }
+        },
+        "grey": false,
+        "refresh_time": 1720717507185,
+        "ttl": 1800,
+        "version": "a36f7b9a1a98c445622078cfcc6a981161d8be19"
+    }
+}

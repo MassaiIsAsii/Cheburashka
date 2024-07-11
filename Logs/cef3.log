@@ -1,0 +1,9 @@
+[1228/133454.075:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1228/133454.805:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1228/133454.805:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1228/133454.824:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1228/133454.824:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1228/133456.403:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 21
+[1228/133503.627:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1228/133503.645:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1228/133504.176:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -100

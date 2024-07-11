@@ -1,0 +1,81 @@
+{
+    "app_key": "b55859b49576694f927ed697448998a7",
+    "call": [
+        {
+            "backoffDelay": 0,
+            "domain": "call-overseas.yunxinvcloud.com",
+            "ipv4": [],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 1
+        },
+        {
+            "backoffDelay": 0,
+            "domain": "call-overseas.yunxinvcloud.com",
+            "ipv4": [
+                "8.219.101.12:443"
+            ],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 1
+        }
+    ],
+    "callIpv6": [],
+    "clientIp": "85.175.114.5",
+    "clientIsIpv6": false,
+    "config": {},
+    "filestore": [
+        {
+            "backoffDelay": 0,
+            "domain": "yunxin-storage-sea.netease.im",
+            "ipv4": [
+                "23.90.128.130:1043"
+            ],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 3
+        },
+        {
+            "backoffDelay": 0,
+            "domain": "yunxin-storage-sea.yunxinvcloud.com",
+            "ipv4": [],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 1
+        }
+    ],
+    "nertd": [],
+    "nrtc": [
+        {
+            "backoffDelay": 0,
+            "domain": "nrtc-overseas.yunxinvcloud.com",
+            "ipv4": [
+                "23.90.128.130:1043"
+            ],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 3
+        },
+        {
+            "backoffDelay": 0,
+            "domain": "nrtc-overseas.yunxinvcloud.com",
+            "ipv4": [],
+            "ipv6": [],
+            "maxResendTimes": 0,
+            "resendDelay": 0,
+            "type": 1
+        }
+    ],
+    "nrtcIpv6": [],
+    "refresh_time": 1720717507385,
+    "switch": {
+        "racingLimit": 4
+    },
+    "ttl": 300,
+    "whiteboard": []
+}
